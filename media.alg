@@ -2,9 +2,9 @@ algoritmo "media"
 var
      nota1, nota2, media:real
 inicio
-       escreva("quanto voce tirou em portugues?")
+       escreva("quanto voce tirou em português?")
        leia(nota1)
-       escreva("quanto voce tirou em matem�tica")
+       escreva("quanto voce tirou em matemática")
        leia(nota2)
        media <- (nota1 + nota2) /2
        escreval("media:",media:5:2)
